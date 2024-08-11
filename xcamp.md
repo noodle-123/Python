@@ -66,5 +66,17 @@ for i in range(3):
     print(M[i][j],end=" ")
   print()
 ```
+# Matrix scan
+#By row
+```
+n = row number, m = column number
+for i in range(n):
+    for j in range(m):
+```
+#By column
+```
+for j in range(m):
+  for i in range(n):
+```
 
 
