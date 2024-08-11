@@ -1,6 +1,7 @@
 ## Matrix ##
 ```
 # Input
+# n - row number in one line
 n =  int(input())
 M = []
 for i in range(n):
@@ -9,8 +10,12 @@ for i in range(n):
 ```
 ```
 # Output
-for i in range(3):
+# print in rows
+# M - matrix, n row numbers
+for i in range(n):
   print(*M[i])
+
+# ?
 for i in range(3):
   for j in range(2):
 
