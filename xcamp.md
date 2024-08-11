@@ -52,8 +52,9 @@ for i in range(n):
   line = list(Map(int, input().split()))
   M.append(line)
 ```
+
+# Output matrix
 ```
-## Output
 # print in rows
 # M - matrix, n row numbers
 for i in range(n):
