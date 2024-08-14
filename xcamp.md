@@ -90,5 +90,10 @@ for  i  in range(0, n):
 2D array:
 
 ```
-
+#Boolean values
+UPPERCASE
+```
+True
+False
+```
 
