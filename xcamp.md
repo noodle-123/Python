@@ -79,5 +79,16 @@ for i in range(n):
 for j in range(m):
   for i in range(n):
 ```
+#Access array element
+Example: (taking 5th element)
+```
+1D array:
+array[4]
+# i is array index, n = array length
+for  i  in range(0, n):
+
+2D array:
+
+```
 
 
