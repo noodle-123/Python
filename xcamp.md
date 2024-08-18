@@ -96,4 +96,7 @@ UPPERCASE
 True
 False
 ```
-
+#Check matrix up, right, left, right
+```
+ if M[i][j-1] == 0 and M[i][j+1] == 0 and M[i-1][j] == 0 and M[i+1][j] == 0:
+```
