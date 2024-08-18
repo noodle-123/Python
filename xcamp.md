@@ -66,6 +66,11 @@ for i in range(3):
 
     print(M[i][j],end=" ")
   print()
+
+#Print without spaces or with designated seperator
+```
+Example- print w/ no space
+print(M[i], sep = "")
 ```
 # Matrix scan
 #By row
