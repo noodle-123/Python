@@ -45,7 +45,7 @@ print(x)
 ```
 
 ```
-## n - row number in one line
+## n - row number in one line ##
 n =  int(input())
 M = []
 for i in range(n):
