@@ -1,4 +1,4 @@
-#Scan Diagonally of a n*n matrix##
+##Scan Diagonally of a n*n matrix##
 ```
 n = int(input())
 M = []
