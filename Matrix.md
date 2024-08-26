@@ -72,3 +72,8 @@ False
 ```
  if M[i][j-1] == 0 and M[i][j+1] == 0 and M[i-1][j] == 0 and M[i+1][j] == 0:
 ```
+
+#Fill array with value
+```
+M = [['o' for x in range(n)] for y in range(n)]
+```
