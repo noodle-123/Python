@@ -64,7 +64,7 @@ for  i  in range(0, n):
 ```
 #Boolean values
 UPPERCASE
-```
+
 True
 False
 ```
@@ -73,7 +73,7 @@ False
  if M[i][j-1] == 0 and M[i][j+1] == 0 and M[i-1][j] == 0 and M[i+1][j] == 0:
 ```
 
-#Fill array with value
+#Fill array with value, in this case, n*m array
 ```
-M = [['o' for x in range(n)] for y in range(n)]
+M = [['o' for x in range(n)] for y in range(m)]
 ```
