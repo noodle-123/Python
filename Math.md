@@ -5,11 +5,10 @@ Ex:
 (x+2)(x-1)>0
 Graph line using roots -2 and 1
 
-2. 
-2/(x-1)<=3
+## 2. solve 2/(x-1)<=3
 
-x-1=!0
-Case 1:
+x-1=!0  
+__Case 1:__
 x-1>0:
 Do not change sign and multiply.
 x>1
@@ -18,7 +17,7 @@ x>1
 5/3<=x,
 x>=5/3.
 
-Case 2:
+__Case 2:__
 x-1<0:
 Change sign (reverse signs)
 2>3(x-1)
@@ -31,8 +30,7 @@ x<1 is less, so answer is x<1 for Case 2.
 Final answer:
 x>=5/3 or x<1.
 
-3.
-Solve:
+## 3.Solve:
 |x+1|+|3x-2|=2.
 
 ----------------------
