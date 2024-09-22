@@ -47,3 +47,9 @@ However, -1/4 is not inside the range of less than -1. Therefore, this solution 
 
 For Segment 2,
 We do the same thing, giving us x+1-3x+2=2 and x=1/2. This is inside the range, so we keep it.
+
+
+## 4.Graphing piecewise-defined absolute value graphs.
+2 cases:
+Value inside abs value bars > 0 and <0
+
