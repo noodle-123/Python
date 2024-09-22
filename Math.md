@@ -30,8 +30,7 @@ x<1 is less, so answer is x<1 for Case 2.
 Final answer:
 x>=5/3 or x<1.
 
-## 3.Solve:
-|x+1|+|3x-2|=2.
+## 3.Solve: |x+1|+|3x-2|=2.
 
 ----------------------
 Solution:
