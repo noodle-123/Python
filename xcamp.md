@@ -105,3 +105,18 @@ False
 ```
  if M[i][j-1] == 0 and M[i][j+1] == 0 and M[i-1][j] == 0 and M[i+1][j] == 0:
 ```
+
+#Hanoi Problem
+```
+def Hanoi(n, start, aux, dest);
+	if n ==1;
+		print(start + ‘=>” + dest)
+	else:
+		#a
+		Hanoi(n-1, start, dest, aux)
+		print(start + ‘=>” + dest)
+		Hanoi(n-1,aux,start,dest)
+print(Hanoi(3, ‘A’, ‘B’, ‘C’))
+
+```
+
