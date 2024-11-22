@@ -1,0 +1,4 @@
+RSM Formatting:
+e.g:
+  x != 1 and x>0
+  - 1>x>0,x>1
