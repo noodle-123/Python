@@ -9,3 +9,7 @@ Product Rule:
 Quotient rule:
   logb(M/N)=logb(M)-logb(N)
 Power Rule:
+  logb(M^k)=k*logbM
+Also:
+logb(b^k)=k
+b^logb(k)=k
