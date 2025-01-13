@@ -1,13 +1,12 @@
-#Flooding matrix:
-  1.Define matrix using 2 for loops for 2d array
-  2.Set range (scan matrix)
-  3.Scan up,left,down,right
-  4.Make sure that all scanning areas are valid
-  5.Save in another array
-  6.Output
-#Example code for scanning:
-```
+## Flooding matrix:
+  1.Define matrix using 2 for loops for 2d array  
+  2.Set range (scan matrix)  row by row
+  3.Scan up (a[i-1][j]),left (a[i][j-1]),down(a[i+1][j]),right(a[i][j+1])  
+  4.Make sure that all scanning areas are valid  check boundary:up(i>0) bottom(i<row) left(j>0) right(j<column)
+  5.Save in another array (or else calculations will be affected)  
   
+### Example code for scanning:
+```
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < m; ++j) {
             int sum = 0;
