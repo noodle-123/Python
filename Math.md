@@ -53,3 +53,14 @@ when value inside || less than 0,
 all the values inside should be changerd, ex: |x + 1| = -x - 1 when (x+1) <0  
 
 
+Double Absolute Value Equations
+Ex: |x+1|+|x-2|=3
+Three intervals: x<-1,-1<x<2, and x>2.
+Solve each interval:
+x<-1:
+  -x+1-x-2=3,x=-1
+  So -1 is included in the range. 
+  Solve other intervals, and
+  -1<=x<=2.
+
+
