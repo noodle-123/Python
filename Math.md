@@ -63,4 +63,7 @@ x<-1:
   Solve other intervals, and
   -1<=x<=2.
 
+Arithmetic Sequences
+a(1-r^n)/(1-r)=Sum
+
 
