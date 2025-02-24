@@ -119,4 +119,28 @@ def Hanoi(n, start, aux, dest);
 print(Hanoi(3, ‘A’, ‘B’, ‘C’))
 
 ```
+## Code Structure Python
+```
+def read_input(numbers, visited):
+    n = int(input())
+    for i in range(1,n+1):
+        numbers.append(i)
+        visited.append(False)
 
+def main():
+    // define list / arry 
+    numbers = []
+    stack = []
+    result = []
+    visited = []
+    //
+    read_input(numbers,visited)
+    // do something
+    dfs(numbers, visited, stack,result)
+    // output
+    print(len(result))
+
+if __name__ == "__main__":
+    main()
+
+```
